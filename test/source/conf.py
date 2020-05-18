@@ -28,6 +28,7 @@ author = 'wjb'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    
 ]
 from recommonmark.parser import CommonMarkParser
 source_parsers = {
